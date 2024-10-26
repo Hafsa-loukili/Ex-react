@@ -37,7 +37,7 @@ const Home = () => {
         <div className="row row-cols-1 row-cols-md-4 g-4">
           <div className="col">
             <div className="card h-100">
-              <img src="/images/image1.jpeg" className="card-img-top" alt="Sac 1" />
+              <img src="./images/image1.jpeg" className="card-img-top" alt="Sac 1" />
               <div className="card-body text-center">
                 <h5 className="card-title">Sac 1</h5>
                 <p className="card-text">Prix: 150 MAD</p>
@@ -48,7 +48,7 @@ const Home = () => {
 
           <div className="col">
             <div className="card h-100">
-              <img src="/images/image2.jpeg" className="card-img-top" alt="Sac 2" />
+              <img src="./images/image2.jpeg" className="card-img-top" alt="Sac 2" />
               <div className="card-body text-center">
                 <h5 className="card-title">Sac 2</h5>
                 <p className="card-text">Prix: 150 MAD</p>
@@ -59,7 +59,7 @@ const Home = () => {
 
           <div className="col">
             <div className="card h-100">
-              <img src="/images/image3.jpeg" className="card-img-top" alt="Sac 3" />
+              <img src="./images/image3.jpeg" className="card-img-top" alt="Sac 3" />
               <div className="card-body text-center">
                 <h5 className="card-title">Sac 3</h5>
                 <p className="card-text">Prix: 150 MAD</p>
@@ -70,7 +70,7 @@ const Home = () => {
 
           <div className="col">
             <div className="card h-100">
-              <img src="/images/image4.jpeg" className="card-img-top" alt="Sac 4" />
+              <img src="./images/image4.jpeg" className="card-img-top" alt="Sac 4" />
               <div className="card-body text-center">
                 <h5 className="card-title">Sac 4</h5>
                 <p className="card-text">Prix: 150 MAD</p>
